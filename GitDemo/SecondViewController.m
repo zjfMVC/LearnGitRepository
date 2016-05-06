@@ -8,7 +8,9 @@
 
 #import "SecondViewController.h"
 
-@interface SecondViewController ()
+@interface SecondViewController () {
+    NSString *_str;
+}
 
 @end
 
