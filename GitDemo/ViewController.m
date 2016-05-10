@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "SecondViewController.h"
 
 @interface ViewController ()
 
@@ -21,7 +22,7 @@
 }
 
 - (void)initView {
-    
+    NSLog(@"%@",@"打印");
 }
 
 - (void)didReceiveMemoryWarning {
