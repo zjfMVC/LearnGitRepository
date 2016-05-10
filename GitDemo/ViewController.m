@@ -24,6 +24,7 @@
 - (void)initView {
     NSLog(@"%@",@"打印");
     NSLog(@"%@",@"第二次打印");
+    NSLog(@"哈哈");
 }
 
 - (void)didReceiveMemoryWarning {
